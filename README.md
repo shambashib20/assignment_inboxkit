@@ -8,7 +8,7 @@ A real-time multiplayer grid game. Open the site, get a random identity, and sta
 ---
 
 ## What it does
-
+nnjnnj
 - **1 200 blocks** (40 columns × 30 rows) on a shared canvas
 - Click any unclaimed block — or steal one from another player — to capture it
 - **All clients see the update in real time** via Socket.IO WebSockets
